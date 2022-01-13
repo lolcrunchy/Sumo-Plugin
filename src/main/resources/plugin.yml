@@ -1,0 +1,10 @@
+name: Sumo
+version: ${project.version}
+main: dev.lolcrunchy.sumo.Sumo
+api-version: 1.16
+authors: LoL_Crunchy
+description: Sumo 
+
+commands:
+  sumo:
+    description: "Den primære kommando for sumo."

@@ -1,0 +1,26 @@
+startLocation:
+  X:
+  Y:
+  Z:
+
+endLocation:
+  X:
+  Y:
+  Z:
+
+playerOneLocation:
+  X:
+  Y:
+  Z:
+
+playerTwoLocation:
+  X:
+  Y:
+  Z:
+
+joinEventFirstMessage: Nyt event 'SUMO' er startet!
+joinEventCountdownMessage: Du har omtrent {tid} sekunder tilbage, før at eventet starter, brug /sumo join.
+eventStarted: Eventet Sumo er started!
+awaitTimeAfterCountDownFinishInSeconds: 5
+amountOfPlayersNeedToStartEvent: 1
+argumentNotFound: Kommandoen findes ikke, brug /sumo hjælp.
